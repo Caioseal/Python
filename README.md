@@ -12,3 +12,5 @@ Here you will find basic exercises that I have learned watching YouTube videos i
 - For loops
 - Functions
 - Arrays
+
+Note: All variables names and functions are in portuguese.
